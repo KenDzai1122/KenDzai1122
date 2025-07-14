@@ -34,42 +34,28 @@
 - **Backend:** Python, Node.js, Java, C/C++
 - **Khác:** Git, Database Design, Game Development, UI/UX Design
 
-### Biểu đồ kỹ năng
+### 📊 Biểu đồ kỹ năng
 
-<img src="https://raw.githubusercontent.com/KenDzai1122/KenDzai1122/main/assets/skill-chart.svg" alt="Skill Chart" />
-
-<!-- Nếu muốn SVG hiển thị trực tiếp, bạn có thể tạo file skill-chart.svg như ví dụ bên dưới: -->
-
-<svg width="500" height="210" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .label { font: bold 14px sans-serif; }
-    .percent { font: 12px sans-serif; fill: #555; }
-  </style>
-  <text x="0" y="20" class="label">HTML & CSS</text>
-  <rect x="150" y="7" width="210" height="16" fill="#e34c26"/>
-  <rect x="150" y="7" width="147" height="16" fill="#0cce6b"/>
-  <text x="370" y="20" class="percent">70%</text>
-  <text x="0" y="50" class="label">JavaScript</text>
-  <rect x="150" y="37" width="210" height="16" fill="#f7df1e"/>
-  <rect x="150" y="37" width="137" height="16" fill="#0cce6b"/>
-  <text x="370" y="50" class="percent">65%</text>
-  <text x="0" y="80" class="label">Python</text>
-  <rect x="150" y="67" width="210" height="16" fill="#3776ab"/>
-  <rect x="150" y="67" width="147" height="16" fill="#0cce6b"/>
-  <text x="370" y="80" class="percent">70%</text>
-  <text x="0" y="110" class="label">Java</text>
-  <rect x="150" y="97" width="210" height="16" fill="#007396"/>
-  <rect x="150" y="97" width="115" height="16" fill="#0cce6b"/>
-  <text x="370" y="110" class="percent">55%</text>
-  <text x="0" y="140" class="label">C/C++</text>
-  <rect x="150" y="127" width="210" height="16" fill="#00599c"/>
-  <rect x="150" y="127" width="126" height="16" fill="#0cce6b"/>
-  <text x="370" y="140" class="percent">60%</text>
-  <text x="0" y="170" class="label">C#</text>
-  <rect x="150" y="157" width="210" height="16" fill="#239120"/>
-  <rect x="150" y="157" width="95" height="16" fill="#0cce6b"/>
-  <text x="370" y="170" class="percent">45%</text>
-</svg>
+```mermaid
+%%{init: {"theme":"default","themeVariables":{"bar1":"#bb66ff","bar2":"#66ffbb","bar3":"#ff66bb","bar4":"#3178c6","bar5":"#f7df1e","bar6":"#3776ab","bar7":"#ed8b00","bar8":"#00599c","bar9":"#b0b8c1"}}}%%
+graph LR
+    subgraph Frontend
+        A1[HTML & CSS 70%] ---|70| A2[JavaScript 65%]
+        A2 ---|60| A3[React.js 60%]
+        A3 ---|55| A4[Three.js 55%]
+    end
+    subgraph Backend
+        B1[Python 70%] ---|60| B2[Node.js 60%]
+        B2 ---|55| B3[Java 55%]
+        B3 ---|60| B4[C/C++ 60%]
+        B4 ---|45| B5[C# 45%]
+    end
+    subgraph Khác
+        C1[Git 70%] ---|60| C2[Database Design 60%]
+        C2 ---|65| C3[Game Development 65%]
+        C3 ---|60| C4[UI/UX Design 60%]
+    end
+```
 
 
 ### Core Technologies
