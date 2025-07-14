@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/KenDzai1122/KenDzai1122/main/assets/skill-chart.svg" alt="Skill Chart" />
 
 <!-- Nếu muốn SVG hiển thị trực tiếp, bạn có thể tạo file skill-chart.svg như ví dụ bên dưới: -->
-<!--
+
 <svg width="500" height="210" xmlns="http://www.w3.org/2000/svg">
   <style>
     .label { font: bold 14px sans-serif; }
@@ -70,7 +70,7 @@
   <rect x="150" y="157" width="95" height="16" fill="#0cce6b"/>
   <text x="370" y="170" class="percent">45%</text>
 </svg>
--->
+
 
 ### Core Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
