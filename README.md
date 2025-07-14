@@ -10,7 +10,7 @@
 ---
 
 ## 📋 Thông tin cá nhân
-- 👤 **Tên:** NGUYEN XUAN THANH (KenDev)
+- 👤 **Tên:** Nguyễn Xuân Thành (KenDev)
 - 💼 **Vị trí:** Full Stack Developer, Game Developer, Python Specialist, UI/UX Designer, Problem Solver
 - 🏠 **Địa chỉ:** Ho Chi Minh City, Vietnam
 - 🎓 **Học vấn:** FPT University - Computer Science
@@ -45,8 +45,8 @@
 ---
 
 ## 🏆 Thành tựu
-- 👨‍💻 **3000+ Users Served**
-- 🎉 **15+ Projects Completed**
+- 👨‍💻 **3000+ Users Served DDoS**
+- 🎉 **150+ Projects Completed**
 - 😊 **50+ Happy Clients**
 
 ---
@@ -84,26 +84,15 @@
 
 ### MBBANK
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Số tài khoản:** `2999922229999` <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
+- **Số tài khoản:** <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
 - **Chi nhánh:** Ho Chi Minh City  
 
 ### TRON (TRX)
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Địa chỉ ví:** `TE5gTvdX1Axo1BA6Hve9THYYMhE3NTRw6L` <img src="https://img.shields.io/badge/Copy-TRX-blue?logo=tron" />
+- **Địa chỉ ví:** <img src="https://img.shields.io/badge/Copy-TRX-blue?logo=tron" />
 - **Chi nhánh:** Ho Chi Minh City  
 
 > Tính năng: **Copy số tài khoản nhanh, notification khi copy**
-
----
-
-## 🛎️ Dịch vụ & Bảng giá
-
-| Dịch vụ                | Giá            |
-|------------------------|----------------|
-| Custom Development     | **$20/hour**   |
-| Game Tools             | **$50/project**|
-| Automation Tools       | **$30/project**|
-| Tutoring               | **$15/hour**   |
 
 ---
 
