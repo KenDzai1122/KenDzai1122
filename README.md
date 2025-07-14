@@ -84,7 +84,7 @@
 
 ### MBBANK
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Số tài khoản: `2999922229999` <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
+- **Số tài khoản:** `2999922229999` <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
 - **Chi nhánh:** Ho Chi Minh City  
 
 ### TRON (TRX)
