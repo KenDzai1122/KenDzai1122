@@ -84,12 +84,12 @@
 
 ### MBBANK
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Số tài khoản:** <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
+- **Số tài khoản: `2999922229999` <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
 - **Chi nhánh:** Ho Chi Minh City  
 
 ### TRON (TRX)
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Địa chỉ ví:** <img src="https://img.shields.io/badge/Copy-TRX-blue?logo=tron" />
+- **Địa chỉ ví:** `TE5gTvdX1Axo1BA6Hve9THYYMhE3NTRw6L` <img src="https://img.shields.io/badge/Copy-TRX-blue?logo=tron" />
 - **Chi nhánh:** Ho Chi Minh City  
 
 > Tính năng: **Copy số tài khoản nhanh, notification khi copy**
