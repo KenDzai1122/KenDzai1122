@@ -1,8 +1,3 @@
-Dưới đây là nội dung mẫu cho file `README.md`, chuyên nghiệp, đẹp, dễ hiểu, kèm hình ảnh biểu đồ kỹ năng (dạng SVG), icon, link mạng xã hội, mô tả dự án, bảng giá dịch vụ. Bạn có thể copy vào GitHub, hình ảnh biểu đồ kỹ năng dùng SVG để hiển thị trực tiếp. Các icon dùng [Shields.io](https://shields.io/) và [Simple Icons](https://simpleicons.org/) giúp thêm phần sinh động.
-
----
-
-```markdown
 <h1 align="center">👋 Xin chào, Tôi là NGUYEN XUAN THANH (KenDev)</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square&logo=github" />
@@ -40,9 +35,12 @@ Dưới đây là nội dung mẫu cho file `README.md`, chuyên nghiệp, đẹ
 - **Khác:** Git, Database Design, Game Development, UI/UX Design
 
 ### Biểu đồ kỹ năng
-```svg
-<!-- Kỹ năng hiển thị progress bar SVG -->
-<svg width="500" height="210">
+
+<img src="https://raw.githubusercontent.com/KenDzai1122/KenDzai1122/main/assets/skill-chart.svg" alt="Skill Chart" />
+
+<!-- Nếu muốn SVG hiển thị trực tiếp, bạn có thể tạo file skill-chart.svg như ví dụ bên dưới: -->
+<!--
+<svg width="500" height="210" xmlns="http://www.w3.org/2000/svg">
   <style>
     .label { font: bold 14px sans-serif; }
     .percent { font: 12px sans-serif; fill: #555; }
@@ -51,33 +49,28 @@ Dưới đây là nội dung mẫu cho file `README.md`, chuyên nghiệp, đẹ
   <rect x="150" y="7" width="210" height="16" fill="#e34c26"/>
   <rect x="150" y="7" width="147" height="16" fill="#0cce6b"/>
   <text x="370" y="20" class="percent">70%</text>
-
   <text x="0" y="50" class="label">JavaScript</text>
   <rect x="150" y="37" width="210" height="16" fill="#f7df1e"/>
   <rect x="150" y="37" width="137" height="16" fill="#0cce6b"/>
   <text x="370" y="50" class="percent">65%</text>
-
   <text x="0" y="80" class="label">Python</text>
   <rect x="150" y="67" width="210" height="16" fill="#3776ab"/>
   <rect x="150" y="67" width="147" height="16" fill="#0cce6b"/>
   <text x="370" y="80" class="percent">70%</text>
-
   <text x="0" y="110" class="label">Java</text>
   <rect x="150" y="97" width="210" height="16" fill="#007396"/>
   <rect x="150" y="97" width="115" height="16" fill="#0cce6b"/>
   <text x="370" y="110" class="percent">55%</text>
-
   <text x="0" y="140" class="label">C/C++</text>
   <rect x="150" y="127" width="210" height="16" fill="#00599c"/>
   <rect x="150" y="127" width="126" height="16" fill="#0cce6b"/>
   <text x="370" y="140" class="percent">60%</text>
-
   <text x="0" y="170" class="label">C#</text>
   <rect x="150" y="157" width="210" height="16" fill="#239120"/>
   <rect x="150" y="157" width="95" height="16" fill="#0cce6b"/>
   <text x="370" y="170" class="percent">45%</text>
 </svg>
-```
+-->
 
 ### Core Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
@@ -159,14 +152,3 @@ Dưới đây là nội dung mẫu cho file `README.md`, chuyên nghiệp, đẹ
 ---
 
 <p align="center">⭐ <b>Hãy kết nối và hợp tác cùng mình!</b> ⭐</p>
-```
-
----
-
-**Ghi chú:**  
-- SVG progress bar có thể chèn trực tiếp vào README nhưng GitHub không render SVG inline. Bạn có thể lưu SVG thành file riêng và chèn bằng thẻ `<img src="...">`, hoặc dùng Shields.io Progress bar.
-- Modal chi tiết dự án chỉ hiển thị khi dùng GitHub Pages hoặc portfolio riêng.
-- Links `[Tải về](#)` và `[Chi tiết](#)` cần thay thế bằng link thực tế.
-- Bạn có thể sửa lại theo ý muốn và cập nhật thêm hình ảnh cá nhân nếu cần.
-
-Nếu cần bản rút gọn hoặc chỉ lấy phần nào, hãy nói rõ nhé!
