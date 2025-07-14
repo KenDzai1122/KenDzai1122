@@ -2,54 +2,124 @@
 
 ![KenDev Portfolio Banner](img/avatar.png)
 
-> **Portfolio cá nhân hiện đại, 3D, hiệu ứng đẹp, tối ưu cho developer, freelancer, showcase dự án, kỹ năng, thanh toán và liên hệ.**
+> **Portfolio cá nhân hiện đại, hiệu ứng 3D, tối ưu cho developer, freelancer, showcase dự án, kỹ năng, thanh toán và liên hệ.**
 
 ---
 
-## 🌟 Giới thiệu
+## 👤 Thông tin cá nhân
 
-**KenDev Portfolio** là website portfolio cá nhân của **NGUYEN XUAN THANH (KenDev)**, Full Stack Developer, chuyên về web/game tools, digital solutions. Dự án nổi bật với hiệu ứng 3D Three.js, giao diện hiện đại, tối ưu UX/UI, tích hợp terminal tương tác, hiệu ứng typing, filter dự án, popup chi tiết, và nhiều tính năng nâng cao khác.
-
-- **Live Demo:** [https://kendev.id.vn/](https://kendev.id.vn/)
-- **Tác giả:** [KenDev (Nguyen Xuan Thanh)](https://github.com/KenDzai1122)
-- **Email:** thanhkaka2203@gmail.com
-
----
-
-## 🎬 Tính năng nổi bật
-
-- **3D Cyberpunk Background:** Hiệu ứng nền 3D động với Three.js, particle, code rain, hologram, logo ngôn ngữ lập trình rơi, tương tác chuột.
-- **Hero Section:** Tên, vai trò, mô tả, hiệu ứng typing động, CTA đẹp.
-- **Skills & About:** Trình bày kỹ năng, công nghệ, thành tựu, học vấn, kinh nghiệm.
-- **Projects Showcase:** Grid dự án, filter theo loại, modal chi tiết, download trực tiếp.
-- **Payment Section:** Thông tin chuyển khoản, crypto, copy nhanh, hiệu ứng notification.
-- **Contact:** Form liên hệ, social links, responsive.
-- **Interactive Terminal:** Terminal giả lập, nhập lệnh, chuyển section, show info, UX độc đáo.
-- **Hiệu ứng GSAP:** Animation khi scroll, hover, modal, skill bar, card, v.v.
-- **Responsive Design:** Tối ưu mọi thiết bị, mobile friendly.
-- **Security:** Chặn F12, Ctrl+U, context menu, bảo vệ nội dung.
+- **Họ tên:** NGUYEN XUAN THANH (KenDev)
+- **Vị trí:** Full Stack Developer, Game Developer, Python Specialist, UI/UX Designer, Problem Solver
+- **Địa chỉ:** Ho Chi Minh City, Vietnam
+- **Học vấn:** FPT University - Computer Science
+- **Kinh nghiệm:** 3+ năm phát triển phần mềm
+- **Mục tiêu:** Full Stack Development & Game Tools
 
 ---
 
-## 🖼️ Hình ảnh giao diện
+## 🌐 Liên hệ & Mạng xã hội
 
-| Hero 3D & Terminal | Projects Modal | Payment Section |
-|:-----------------:|:-------------:|:--------------:|
-| ![Hero](img/avatar.png) | ![Projects](img/project1.png) | ![Payment](img/bank1.png) |
-
----
-
-## 🛠️ Công nghệ sử dụng
-
-- **HTML5, CSS3, JavaScript (ES6+)**
-- **Three.js** (3D background, hiệu ứng)
-- **GSAP** (animation, scroll)
-- **FontAwesome** (icon)
-- **Responsive CSS**
+| Email                        | Facebook                                    | GitHub                                   | Discord                                   |
+|------------------------------|---------------------------------------------|------------------------------------------|--------------------------------------------|
+| thanhkaka2203@gmail.com      | [pluto.JKC](https://www.facebook.com/pluto.JKC) | [KenDzai1122](https://github.com/KenDzai1122) | [kenvietcode](https://discordapp.com/users/kenvietcode/) |
 
 ---
 
-## 📁 Cấu trúc thư mục
+## 🛠️ Kỹ năng & Công nghệ
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Three.js
+- **Backend:** Python, Node.js, Java, C/C++
+- **Khác:** Git, Database Design, Game Development, UI/UX Design
+- **Core Technologies:** HTML5, CSS3, JavaScript, Python, Java, Node.js
+
+**Kỹ năng hiển thị dạng progress bar:**
+
+| Kỹ năng         | Mức độ |
+|-----------------|--------|
+| HTML & CSS      | 70%    |
+| JavaScript      | 65%    |
+| Python          | 70%    |
+| Java            | 55%    |
+| C/C++           | 60%    |
+| C#              | 45%    |
+
+---
+
+## 🏆 Thành tựu
+
+- **3000+** Users Served
+- **15+** Projects Completed
+- **50+** Happy Clients
+
+---
+
+## 🚩 Dự án tiêu biểu
+
+| Tên dự án              | Công nghệ chính                        | Mô tả ngắn gọn                                    | Link tải/demo                |
+|------------------------|----------------------------------------|---------------------------------------------------|------------------------------|
+| DDOS Testing Tools     | Node.js, Network Security, JavaScript  | Công cụ kiểm thử mạng, mục đích giáo dục          | [Tải về](products/DDOS.zip)  |
+| System Spoofer         | C#, C/C++, Python, System Programming  | Spoof phần cứng, hỗ trợ game, ứng dụng             | [Tải về](products/spoofer_placeholder.txt) |
+| Proxy Scanner          | Python, Networking, Automation         | Quét, kiểm tra proxy, cập nhật định kỳ             | [Tải về](products/proxy.txt) |
+| TikTok Growth Tool     | Python, API Integration, Automation    | Tăng tương tác TikTok tự động qua Zefoy API        | [Tải về](products/Buff_V3_Session.py) |
+| AI CAPTCHA Solver      | Python, AI/ML, Google Gemini API       | Giải captcha tự động bằng AI Google Gemini 2.0     | [Tải về](products/SourceSolveCapchaText.py) |
+
+> Xem chi tiết từng dự án trong website (modal popup, filter, hình ảnh, mô tả, cảnh báo sử dụng).
+
+---
+
+## 💳 Phương thức thanh toán
+
+- **MBBANK:**
+  - Chủ tài khoản: NGUYEN XUAN THANH
+  - Số tài khoản: 2999922229999
+  - Chi nhánh: Ho Chi Minh City
+- **TRON (TRX):**
+  - Chủ tài khoản: NGUYEN XUAN THANH
+  - Địa chỉ ví: TE5gTvdX1Axo1BA6Hve9THYYMhE3NTRw6L
+  - Chi nhánh: Ho Chi Minh City
+
+> Tính năng: Copy số tài khoản nhanh, notification khi copy.
+
+---
+
+## 💼 Dịch vụ & Bảng giá
+
+| Dịch vụ                | Giá khởi điểm      |
+|------------------------|--------------------|
+| Custom Development     | $20/hour           |
+| Game Tools             | $50/project        |
+| Automation Tools       | $30/project        |
+| Tutoring               | $15/hour           |
+
+---
+
+## 📝 Chính sách & Ghi chú
+
+- **Bảo mật:** Giao dịch an toàn, bảo vệ thông tin khách hàng
+- **Thời gian làm việc:** 24/7, phản hồi trung bình 2-4h
+
+---
+
+## ✉️ Form liên hệ
+
+- Họ tên, Email, Chủ đề, Nội dung
+- Gửi mail trực tiếp qua form trên website
+
+---
+
+## ✨ Hiệu ứng & Tính năng đặc biệt
+
+- **3D Background:** Three.js, particle, code rain, logo ngôn ngữ rơi, hologram, terminal 3D
+- **Interactive Terminal:** Nhập lệnh, chuyển section, show info
+- **Typing Effect:** Hiệu ứng gõ chữ động
+- **GSAP Animation:** Hiệu ứng khi scroll, hover, modal, skill bar, card
+- **Music Player:** Nhạc nền, visualizer, điều khiển play/pause
+- **Responsive Design:** Tối ưu mọi thiết bị
+- **Security:** Chặn F12, Ctrl+U, context menu
+
+---
+
+## 🗂️ Cấu trúc thư mục
 
 ```
 fallinlove/
@@ -110,7 +180,7 @@ fallinlove/
 
 ---
 
-## ⭐ Liên hệ & Kết nối
+## ⭐ Kết nối & Ủng hộ
 
 - **Facebook:** [pluto.JKC](https://www.facebook.com/pluto.JKC)
 - **GitHub:** [KenDzai1122](https://github.com/KenDzai1122)
