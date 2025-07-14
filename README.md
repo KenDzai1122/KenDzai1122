@@ -37,26 +37,22 @@
 ### 📊 Biểu đồ kỹ năng
 
 ```mermaid
-%%{init: {"theme":"default","themeVariables":{"bar1":"#bb66ff","bar2":"#66ffbb","bar3":"#ff66bb","bar4":"#3178c6","bar5":"#f7df1e","bar6":"#3776ab","bar7":"#ed8b00","bar8":"#00599c","bar9":"#b0b8c1"}}}%%
-graph LR
-    subgraph Frontend
-        A1[HTML & CSS 70%] ---|70| A2[JavaScript 65%]
-        A2 ---|60| A3[React.js 60%]
-        A3 ---|55| A4[Three.js 55%]
-    end
-    subgraph Backend
-        B1[Python 70%] ---|60| B2[Node.js 60%]
-        B2 ---|55| B3[Java 55%]
-        B3 ---|60| B4[C/C++ 60%]
-        B4 ---|45| B5[C# 45%]
-    end
-    subgraph Khác
-        C1[Git 70%] ---|60| C2[Database Design 60%]
-        C2 ---|65| C3[Game Development 65%]
-        C3 ---|60| C4[UI/UX Design 60%]
-    end
+%%{init: {'theme':'default','themeVariables':{'pie1':'#bb66ff','pie2':'#66ffbb','pie3':'#ff66bb','pie4':'#3178c6','pie5':'#f7df1e','pie6':'#3776ab','pie7':'#ed8b00','pie8':'#00599c','pie9':'#b0b8c1'}}}%%
+pie title Kỹ năng chuyên môn
+    "HTML & CSS (70%)" : 70
+    "JavaScript (65%)" : 65
+    "Python (70%)" : 70
+    "Java (55%)" : 55
+    "C/C++ (60%)" : 60
+    "C# (45%)" : 45
+    "React.js (60%)" : 60
+    "Three.js (55%)" : 55
+    "Node.js (60%)" : 60
+    "Git (70%)" : 70
+    "Database Design (60%)" : 60
+    "Game Development (65%)" : 65
+    "UI/UX Design (60%)" : 60
 ```
-
 
 ### Core Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
