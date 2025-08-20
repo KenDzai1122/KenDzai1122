@@ -56,33 +56,33 @@
 ### 1. DDOS Testing Tools
 - **Mô tả:** Công cụ kiểm tra bảo mật mạng, giả lập tấn công DDOS.
 - **Công nghệ:** Node.js, Network Security, JavaScript
-- **[Tải về](#) | [Chi tiết](#)**
+- **[Tải về]([#](https://kendev.id.vn/)) | [Chi tiết]([#](https://kendev.id.vn/))**
 
 ### 2. System Spoofer
 - **Mô tả:** Giả lập hệ thống, bypass các giới hạn phần mềm.
 - **Công nghệ:** C#, C/C++, Python, System Programming
-- **[Tải về](#) | [Chi tiết](#)**
+- **[Tải về]([#](https://kendev.id.vn/)) | [Chi tiết]([#](https://kendev.id.vn/))**
 
 ### 3. Proxy Scanner
 - **Mô tả:** Quét, kiểm tra proxy, tự động hóa quy trình mạng.
 - **Công nghệ:** Python, Networking, Automation
-- **[Tải về](#) | [Chi tiết](#)**
+- **[Tải về]([#](https://kendev.id.vn/)) | [Chi tiết]([#](https://kendev.id.vn/))**
 
 ### 4. TikTok Growth Tool
 - **Mô tả:** Tăng trưởng tài khoản TikTok qua API, tự động hóa.
 - **Công nghệ:** Python, API Integration, Automation
-- **[Tải về](#) | [Chi tiết](#)**
+- **[Tải về]([#](https://kendev.id.vn/)) | [Chi tiết]([#](https://kendev.id.vn/))**
 
 ### 5. AI CAPTCHA Solver
 - **Mô tả:** Giải mã CAPTCHA bằng AI, tích hợp Google Gemini API.
 - **Công nghệ:** Python, AI/ML, Google Gemini API
-- **[Tải về](#) | [Chi tiết](#)**
+- **[Tải về]([#](https://kendev.id.vn/)) | [Chi tiết]([#](https://kendev.id.vn/))**
 
 ### 6. MuaBanGame
 - **Mô tả:** Nền tảng trung gian **mua bán tài khoản game an toàn, uy tín số 1 tại Việt Nam**.  
   Giao dịch nhanh chóng, bảo mật tuyệt đối với đa dạng loại tài khoản game.
 - **Công nghệ:** ReactJS, Bootstrap 5, Cloudflare CDN/SSL, SEO tối ưu (Open Graph, Twitter Card, Schema.org, Sitemap, Robots.txt).
-- **[Truy cập](https://muabangame.vn) | [Chi tiết](https://muabangame.vn/about)**
+- **[Chi tiết](https://muabangame.vn/)**
 
 ---
 
