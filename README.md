@@ -78,6 +78,12 @@
 - **Công nghệ:** Python, AI/ML, Google Gemini API
 - **[Tải về](#) | [Chi tiết](#)**
 
+### 6. MuaBanGame
+- **Mô tả:** Nền tảng trung gian **mua bán tài khoản game an toàn, uy tín số 1 tại Việt Nam**.  
+  Giao dịch nhanh chóng, bảo mật tuyệt đối với đa dạng loại tài khoản game.
+- **Công nghệ:** ReactJS, Bootstrap 5, Cloudflare CDN/SSL, SEO tối ưu (Open Graph, Twitter Card, Schema.org, Sitemap, Robots.txt).
+- **[Truy cập](https://muabangame.vn) | [Chi tiết](https://muabangame.vn/about)**
+
 ---
 
 ## 💳 Phương thức thanh toán
