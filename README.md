@@ -1,109 +1,114 @@
-<h1 align="center">👋 Xin chào, Tôi là NGUYEN XUAN THANH (KenDev)</h1>
+<h1 align="center">👋 Xin chào, Tôi là <span style="color:#007acc">NGUYEN XUAN THANH</span> (KenDev)</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Game%20Developer-green?style=flat-square&logo=unity" />
-  <img src="https://img.shields.io/badge/Python%20Specialist-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/UI/UX%20Designer-ff69b4?style=flat-square&logo=figma" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=flat-square&logo=codeforces" />
+  <em>Full Stack Developer | Game Developer | Python Specialist | UI/UX Designer | Problem Solver</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Game%20Developer-green?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Python%20Specialist-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/UI/UX%20Designer-ff69b4?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge&logo=codeforces" />
 </p>
 
 ---
 
 ## 📋 Thông tin cá nhân
-- 👤 **Tên:** Nguyễn Xuân Thành (KenDev)
-- 💼 **Vị trí:** Full Stack Developer, Game Developer, Python Specialist, UI/UX Designer, Problem Solver
-- 🏠 **Địa chỉ:** Ho Chi Minh City, Vietnam
-- 🎓 **Học vấn:** FPT University - Computer Science
-- 🏆 **Kinh nghiệm:** 3+ năm phát triển phần mềm
-- 🎯 **Mục tiêu:** Full Stack Development & Game Tools
+- 👤 **Tên:** Nguyễn Xuân Thành (KenDev)  
+- 💼 **Vị trí:** Full Stack Developer, Game Developer, Python Specialist, UI/UX Designer  
+- 🏠 **Địa chỉ:** Ho Chi Minh City, Vietnam  
+- 🎓 **Học vấn:** FPT University - Computer Science  
+- 🏆 **Kinh nghiệm:** 3+ năm phát triển phần mềm  
+- 🎯 **Mục tiêu:** Full Stack Development & Game Tools  
 
 ---
 
 ## 🌐 Liên hệ & Mạng xã hội
-[![Email](https://img.shields.io/badge/Email-thanhlkaka2203@gmail.com-red?logo=gmail)](mailto:thanhlkaka2203@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-pluto.JKC-blue?logo=facebook)](https://facebook.com/pluto.JKC)
-[![GitHub](https://img.shields.io/badge/GitHub-KenDzai1122-black?logo=github)](https://github.com/KenDzai1122)
-[![Discord](https://img.shields.io/badge/Discord-kenvietcode-7289DA?logo=discord)](https://discord.com/channels/@kenvietcode)
+<p align="center">
+  <a href="mailto:thanhlkaka2203@gmail.com"><img src="https://img.shields.io/badge/Gmail-thanhlkaka2203%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://facebook.com/pluto.JKC"><img src="https://img.shields.io/badge/Facebook-pluto.JKC-blue?style=for-the-badge&logo=facebook"></a>
+  <a href="https://github.com/KenDzai1122"><img src="https://img.shields.io/badge/GitHub-KenDzai1122-black?style=for-the-badge&logo=github"></a>
+  <a href="https://discord.com/channels/@kenvietcode"><img src="https://img.shields.io/badge/Discord-kenvietcode-7289DA?style=for-the-badge&logo=discord"></a>
+</p>
 
 ---
 
 ## 🛠️ Kỹ năng & Công nghệ
 
-### Kỹ năng chính
-- **Frontend:** HTML, CSS, JavaScript, React.js, Three.js
-- **Backend:** Python, Node.js, Java, C/C++
-- **Khác:** Git, Database Design, Game Development, UI/UX Design
+### 🔹 Web Development
+- **Frontend:** HTML, CSS, JavaScript, React.js, Three.js  
+- **Backend:** Python (Django/FastAPI), Node.js (Express/NestJS), Java (Spring Boot), C/C++  
+- **Khác:** REST API, GraphQL, Database Design (MySQL, MongoDB, PostgreSQL)
 
-### Core Technologies
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### 🔹 Mobile Development
+- **Android (APK):** Java, Kotlin, APK Reverse Engineering, Smali  
+- **iOS:** Swift, Objective-C, IPA Reverse Engineering, Xcode, Cocoapods  
+- **Cross-platform:** React Native, Flutter  
+
+### 🔹 Game & Plugin Development
+- **Game Engines:** Unity (C#), Unreal Engine (C++)  
+- **Plugin Development:** Browser Extensions, Game Plugins, Custom Mods  
+- **3D Tools:** Three.js, Blender, Asset Pipeline  
+
+### 🔹 System & Kernel
+- **System Programming:** C/C++, Assembly  
+- **Kernel Development:** Linux Kernel Modules, Hooking, Syscalls  
+- **Reverse Engineering:** IDA, Ghidra, OllyDbg  
+
+### 🔹 DevOps & Cloud
+- **Tools:** Git, Docker, Kubernetes  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Cloud:** AWS, GCP, Cloudflare (CDN, WAF, SSL, Bot Management)  
+
+---
+
+### 📌 Core Technologies (Quick View)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,swift,kotlin,flutter,unity,unreal,linux,docker,kubernetes,git,figma" />
+</p>
+
 
 ---
 
 ## 🏆 Thành tựu
-- 👨‍💻 **3000+ Users Served DDoS**
-- 🎉 **150+ Projects Completed**
-- 😊 **50+ Happy Clients**
+- 👨‍💻 **3000+ Users Served DDoS**  
+- 🎉 **150+ Projects Completed**  
+- 😊 **50+ Happy Clients**  
 
 ---
 
 ## 🚀 Dự án tiêu biểu
 
-### 1. DDOS Testing Tools
-- **Mô tả:** Công cụ kiểm tra bảo mật mạng, giả lập tấn công DDOS.
-- **Công nghệ:** Node.js, Network Security, JavaScript
-- **[Tải về](https://kendev.id.vn/) | [Chi tiết](https://kendev.id.vn/)**
-
-### 2. System Spoofer
-- **Mô tả:** Giả lập hệ thống, bypass các giới hạn phần mềm.
-- **Công nghệ:** C#, C/C++, Python, System Programming
-- **[Tải về](https://kendev.id.vn/) | [Chi tiết](https://kendev.id.vn/)**
-
-### 3. Proxy Scanner
-- **Mô tả:** Quét, kiểm tra proxy, tự động hóa quy trình mạng.
-- **Công nghệ:** Python, Networking, Automation
-- **[Tải về](https://kendev.id.vn/) | [Chi tiết](https://kendev.id.vn/)**
-
-### 4. TikTok Growth Tool
-- **Mô tả:** Tăng trưởng tài khoản TikTok qua API, tự động hóa.
-- **Công nghệ:** Python, API Integration, Automation
-- **[Tải về](https://kendev.id.vn/) | [Chi tiết](https://kendev.id.vn/)**
-
-### 5. AI CAPTCHA Solver
-- **Mô tả:** Giải mã CAPTCHA bằng AI, tích hợp Google Gemini API.
-- **Công nghệ:** Python, AI/ML, Google Gemini API
-- **[Tải về](https://kendev.id.vn/) | [Chi tiết](https://kendev.id.vn/)**
-
-### 6. MuaBanGame
-- **Mô tả:** Nền tảng trung gian **mua bán tài khoản game an toàn, uy tín số 1 tại Việt Nam**.  
-  Giao dịch nhanh chóng, bảo mật tuyệt đối với đa dạng loại tài khoản game.
-- **Công nghệ:** ReactJS, Bootstrap 5, Cloudflare CDN/SSL, SEO tối ưu (Open Graph, Twitter Card, Schema.org, Sitemap, Robots.txt).
-- **[Chi tiết](https://muabangame.vn/)**
+| # | Dự án | Mô tả | Công nghệ | Liên kết |
+|---|-------|-------|-----------|----------|
+| 1 | **DDOS Testing Tools** | Công cụ kiểm tra bảo mật mạng, giả lập tấn công DDOS | Node.js, Network Security | [Chi tiết](https://kendev.id.vn/) |
+| 2 | **System Spoofer** | Giả lập hệ thống, bypass giới hạn phần mềm | C#, C/C++, Python | [Chi tiết](https://kendev.id.vn/) |
+| 3 | **Proxy Scanner** | Quét, kiểm tra proxy, tự động hóa mạng | Python, Networking | [Chi tiết](https://kendev.id.vn/) |
+| 4 | **TikTok Growth Tool** | Tăng trưởng tài khoản TikTok qua API | Python, API Integration | [Chi tiết](https://kendev.id.vn/) |
+| 5 | **AI CAPTCHA Solver** | Giải mã CAPTCHA bằng AI (Google Gemini API) | Python, AI/ML | [Chi tiết](https://kendev.id.vn/) |
+| 6 | **MuaBanGame** | Nền tảng trung gian mua bán tài khoản game an toàn, uy tín | ReactJS, Bootstrap, Cloudflare, SEO | [Truy cập](https://muabangame.vn/) |
 
 ---
 
 ## 💳 Phương thức thanh toán
 
-### MBBANK
+### 🏦 MBBANK  
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Số tài khoản:** `2999922229999` <img src="https://img.shields.io/badge/Copy-2999922229999-blue?logo=mbbank" />
+- **Số tài khoản:** `2999922229999`  
 - **Chi nhánh:** Ho Chi Minh City  
 
-### TRON (TRX)
+### 🪙 TRON (TRX)  
 - **Chủ tài khoản:** NGUYEN XUAN THANH  
-- **Địa chỉ ví:** `TE5gTvdX1Axo1BA6Hve9THYYMhE3NTRw6L` <img src="https://img.shields.io/badge/Copy-TRX-blue?logo=tron" />
-- **Chi nhánh:** Ho Chi Minh City  
-
-> Tính năng: **Copy số tài khoản nhanh, notification khi copy**
+- **Địa chỉ ví:** `TE5gTvdX1Axo1BA6Hve9THYYMhE3NTRw6L`  
 
 ---
 
+## 📊 Thống kê GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenDzai1122&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenDzai1122&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenDzai1122&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
