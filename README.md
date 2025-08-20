@@ -111,6 +111,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenDzai1122&layout=compact&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KenDzai1122&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KenDzai1122&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
 ---
 
 <p align="center">⭐ <b>Hãy kết nối và hợp tác cùng mình!</b> ⭐</p>
